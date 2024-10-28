@@ -11,13 +11,14 @@ Hello, I hold a **Bachelor of Science in Civil Engineering** from **Iran Univers
 
 ## Education
 
-- **B.Sc. in Civil Engineering**  
-  Iran University of Science and Technology (IUST), Tehran, Iran  
-  2020 – 2024
+- **Bachelor of Science in Civil Engineering**  
+  *Iran University of Science and Technology (IUST)*, Tehran, Iran  
+  *2020 – 2024*
 
 - **High School Diploma in Mathematics & Physics**  
-  Farzanegan7: Sampad (National Organization for Development of Exceptional Talents), Tehran, Iran  
-  2017 – 2020
+  *Farzanegan 7 (Sampad - National Organization for Development of Exceptional Talents)*, Tehran, Iran  
+  *2017 – 2020* 
+
 
 ## Academic Experience
 
