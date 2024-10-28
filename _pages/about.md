@@ -7,66 +7,127 @@ redirect_from:
   - /about.html
 ---
 
+# Home
+
 Hello, I hold a Bachelor of Science in Civil Engineering from Iran University of Science and Technology. My focus has been on advanced construction materials, particularly in improving concrete durability with nano-materials. I engaged in extensive research within the concrete technology lab, working on projects related to chloride transport, alkali-silica reaction, and acid resistance in cement mortar.
 
-Academic Experience 
-======
-Research Assistant- Iran University of Science and Technology
-•	Concrete Technology Laboratory | Aug 2022-Present  
-Supervisor: Dr. Asghar Habibnejad Korayem 
-o	Duties: Investigated durability of cementitious composites, explored nanotechnology applications in civil engineering, conducted non-destructive tests, and contributed to research on infrastructure resilience.
-Teacher Assistant- Iran University of Science and Technology
-• Concrete Technology | Sep 2023 - Jan 2024
-o	Supervisor: Dr. Sajjad Mirvalad
-o	Duties: Giving instructions in essay writing with an emphasis on concrete 
-• Energy and Sustainable Development | Jan 2024 - Jul 2024
-o	Supervisor: Dr. Pooyan Ayar
-o	Duties: Leading discussion sections on sustainability topics like renewable energy sources, sustainable design, environmental impacts, and policy, to deepen students’ understanding.
-•	Concrete Technology Laboratory | Jan 2023 - July 2023
-o	Supervisor: Dr. Hassan Malekitabar
-o	Duties: Assisted in teaching the main class alongside Dr. Hassan Malekitabar.
-technology topics and oversight of students’ essays.  
-•	Fluid Mechanics | Jan 2023 - July 2023
-o	Supervisor: Dr. Naser Shabakhty 
-o	Duties: Developed a problem-solving curriculum alongside the main course mostly regarding dimensional analysis, model similitude, velocity and pressure distributions. 
-•	Civil Engineering Hydraulics | Sep 2023 - Jan 2024
-o	Supervisor: Dr. Motahareh Saadatpour
-o	Duties: Developed a problem-solving curriculum and taught it alongside the main course regarding Open-channel flow, extensive coverage of open channel design, with comprehensive discussions on fundamental equations.
+## Education
 
+- **B.Sc. in Civil Engineering**  
+  Iran University of Science and Technology (IUST), Tehran, Iran  
+  2020 – 2024
 
+- **High School Diploma in Mathematics & Physics**  
+  Farzanegan7: Sampad (National Organization for Development of Exceptional Talents), Tehran, Iran  
+  2017 – 2020
 
+## Academic Experience
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Research Assistant**  
+  Iran University of Science and Technology, Concrete Technology Laboratory | Aug 2022 - Present  
+  **Supervisor**: Dr. Asghar Habibnejad Korayem
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **Teacher Assistant**  
+  Iran University of Science and Technology
+  - Concrete Technology | Sep 2023 - Jan 2024
+  - Energy and Sustainable Development | Jan 2024 - July 2024
+  - Concrete Technology Laboratory | Jan 2023 - July 2023
+  - Fluid Mechanics | Jan 2023 - July 2023
+  - Civil Engineering Hydraulics | Sep 2023 - Jan 2024
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Publications
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Mitigating acid attack-induced deterioration of cement mortar through the application of montmorillonite nanosheets**  
+  _Under Review in Construction and Building Materials journal._
+  
+- **The potential of nano-clay to minimize degradation in Portland cement-zeolite binary mortar exposed to alkali-silica reaction (ASR)**  
+  _Manuscript in Preparation_
 
-**Markdown generator**
+## Work Experience
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- **Ariantiss Co. | Building Retrofit Design and Implementation**
+  - Conducted thorough assessments of existing buildings for structural integrity and retrofitting potential.
+  - Supported senior engineers in project planning and execution.
+  - Utilized AutoCAD for design precision.
+  - Contributed to project proposals and presentations.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- **Mahab Ghodss Consulting Engineering Co. | Water Resources Studies, Dam & Hydropower**
+  - Design of Sewer Networks
+  - Simulation of Water Resources Systems
+  - Optimization of Integrated Water Resources Systems
+  - Analyzed reservoir impacts on water regulation capabilities.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Honors
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- **Direct admission** to master’s degree programs at top-ranking universities in Iran.
+- Ranked **Top 20%** among Civil Engineering graduating class | Year 2024
+- Ranked **Top 2%** in Konkour Exam | Year 2020
+- Awarded **Student of the Year** | Iran University of Science and Technology, Year 2023
+- **Top Internship Course Poster and Video** | Iran University of Science and Technology, Year 2023
+- Admitted to the **National Organization for the Development of Exceptional Talents (Farzanegan)** | Year 2014-2020
+- Ranked **2nd in PYPT (Persian Young Physicists’ Tournament)** | Year 2018
+
+## Volunteer Experience
+
+**Deputy Secretary of the Scientific Society of Civil Engineering**  
+Responsibilities:
+- Worked with team members to plan events and conferences.
+- Managed content and communications between faculty and undergraduates.
+
+Organized Events:
+- **13th ICCE (International Congress on Civil Engineering)**
+- **GeoWall (National Competition of Reinforced Soil Retaining Wall)**
+- **ICO (Industrial Civil Opportunity)**
+
+## Skills
+
+- **Engineering Software**: ETABS, AutoCAD, Autodesk Civil 3D, HEC-RAS, WaterGEMS, SewerGEMS, ArcMap
+- **Programming**: Python, MATLAB, C & C++
+
+## Language Proficiencies
+
+- **English**: IELTS Overall: 7 (Speaking: 8, Reading: 7, Listening: 7.5, Writing: 6)
+- **Persian**: Native
+- **German**: Beginner
+
+## Publications (Expanded)
+
+1. **Mitigating acid attack-induced deterioration of cement mortar through the application of montmorillonite nanosheets**:  
+   This study examines the effectiveness of montmorillonite nanosheets in enhancing the resistance of cement mortar to acid-induced deterioration. By incorporating these nanosheets, the research highlights a promising approach to reducing material breakdown in acidic environments, potentially contributing to more durable and resilient infrastructure.  
+   _Under Review in Construction and Building Materials journal._
+
+2. **The potential of nano-clay to minimize degradation in Portland cement-zeolite binary mortar exposed to alkali-silica reaction (ASR)**:  
+   This research investigates the role of nano-clay in limiting the degradation caused by alkali-silica reaction (ASR) in Portland cement-zeolite mortar. ASR can lead to significant structural damage due to expansion and cracking; therefore, the addition of nano-clay presents a valuable strategy for enhancing concrete durability, particularly in ASR-prone applications.  
+   _Manuscript in Preparation_
+
+## Additional Academic Experience (Detailed)
+
+- **Research Assistant**  
+  Iran University of Science and Technology, Concrete Technology Laboratory | Aug 2022 - Present  
+  **Supervisor**: Dr. Asghar Habibnejad Korayem  
+  **Duties**: Investigated the durability of cementitious composites, explored nanotechnology applications in civil engineering, conducted non-destructive tests, and contributed to infrastructure resilience research.
+
+- **Teacher Assistant**  
+  Iran University of Science and Technology
+  - **Concrete Technology** | Supervisor: Dr. Sajjad Mirvalad | Sep 2023 - Jan 2024
+  - **Energy and Sustainable Development** | Supervisor: Dr. Pooyan Ayar | Jan 2024 - Jul 2024
+  - **Concrete Technology Laboratory** | Supervisor: Dr. Hassan Malekitabar | Jan 2023 - Jul 2023
+  - **Fluid Mechanics** | Supervisor: Dr. Naser Shabakhty | Jan 2023 - Jul 2023
+  - **Civil Engineering Hydraulics** | Supervisor: Dr. Motahareh Saadatpour | Sep 2023 - Jan 2024
+
+## Volunteer Experience (Expanded)
+
+**Deputy Secretary of the Scientific Society of Civil Engineering**  
+Responsibilities:
+- Planned events and scientific conferences, managed content, and facilitated communication between faculty and undergraduates.
+
+Organized Events:
+- **13th International Congress on Civil Engineering (ICCE)**: Coordinated logistics, invited speakers, and facilitated networking opportunities.
+- **GeoWall Competition**: Developed competition guidelines, managed materials, and supervised the judging process.
+- **Industrial Civil Opportunity (ICO)**: Organized sessions connecting students with industry leaders.
+
+## Hobbies
+
+- **Music Experience**  
+  Piano Player  
+  Self-Taught / 10 years of experience
