@@ -11,108 +11,121 @@ Hello, I hold a **Bachelor of Science in Civil Engineering** from **Iran Univers
 
 ## Education
 
-- Completed a **Bachelor of Science in Civil Engineering** at **Iran University of Science and Technology (IUST)**, located in Tehran, Iran, from 2020 to 2024.
-- Earned a **High School Diploma in Mathematics & Physics** from **Farzanegan7: Sampad (National Organization for Development of Exceptional Talents)**, also in Tehran, Iran, during 2017 – 2020.
+- **B.Sc. in Civil Engineering**  
+  Iran University of Science and Technology (IUST), Tehran, Iran  
+  2020 – 2024
+
+- **High School Diploma in Mathematics & Physics**  
+  Farzanegan7: Sampad (National Organization for Development of Exceptional Talents), Tehran, Iran  
+  2017 – 2020
 
 ## Academic Experience
 
-- **Research Assistant** at the **Concrete Technology Laboratory** at Iran University of Science and Technology, from August 2022 to the present.  
-  - **Supervisor**: Dr. Asghar Habibnejad Korayem.
+- **Research Assistant**  
+  Iran University of Science and Technology, Concrete Technology Laboratory | Aug 2022 - Present  
+  **Supervisor**: Dr. Asghar Habibnejad Korayem
 
-- **Teaching Assistant** roles at Iran University of Science and Technology:
-  - *Concrete Technology* course, taught from September 2023 to January 2024.
-  - *Energy and Sustainable Development* course, from January 2024 to July 2024.
-  - Assisted in the *Concrete Technology Laboratory* course, from January 2023 to July 2023.
-  - *Fluid Mechanics* course, also from January 2023 to July 2023.
-  - *Civil Engineering Hydraulics* course, conducted from September 2023 to January 2024.
+- **Teacher Assistant**  
+  Iran University of Science and Technology
+  - Concrete Technology | Sep 2023 - Jan 2024
+  - Energy and Sustainable Development | Jan 2024 - July 2024
+  - Concrete Technology Laboratory | Jan 2023 - July 2023
+  - Fluid Mechanics | Jan 2023 - July 2023
+  - Civil Engineering Hydraulics | Sep 2023 - Jan 2024
 
 ## Publications
 
-- **"Mitigating Acid Attack-Induced Deterioration of Cement Mortar Through the Application of Montmorillonite Nanosheets"**  
-  This work is currently _under review in the journal Construction and Building Materials_.
-
-- **"The Potential of Nano-Clay to Minimize Degradation in Portland Cement-Zeolite Binary Mortar Exposed to Alkali-Silica Reaction (ASR)"**  
-  This research is a _manuscript in preparation_.
+- **Mitigating acid attack-induced deterioration of cement mortar through the application of montmorillonite nanosheets**  
+  _Under Review in Construction and Building Materials journal._
+  
+- **The potential of nano-clay to minimize degradation in Portland cement-zeolite binary mortar exposed to alkali-silica reaction (ASR)**  
+  _Manuscript in Preparation_
 
 ## Work Experience
 
-- **Ariantiss Co.**, specializing in Building Retrofit Design and Implementation:
-  - Conducted thorough assessments of buildings for structural integrity and retrofitting potential.
-  - Assisted senior engineers with project planning and execution.
-  - Employed AutoCAD to ensure design precision.
-  - Contributed to the preparation of project proposals and presentations.
+- **Ariantiss Co. | Building Retrofit Design and Implementation**
+  - Conducted thorough assessments of existing buildings for structural integrity and retrofitting potential.
+  - Supported senior engineers in project planning and execution.
+  - Utilized AutoCAD for design precision.
+  - Contributed to project proposals and presentations.
 
-- **Mahab Ghodss Consulting Engineering Co.**, involved in Water Resources Studies, Dam & Hydropower:
-  - Worked on the design of sewer networks.
-  - Engaged in simulation of water resources systems.
-  - Conducted optimization studies for integrated water resources systems.
-  - Assessed the impact of reservoirs on water regulation capabilities.
+- **Mahab Ghodss Consulting Engineering Co. | Water Resources Studies, Dam & Hydropower**
+  - Design of Sewer Networks
+  - Simulation of Water Resources Systems
+  - Optimization of Integrated Water Resources Systems
+  - Analyzed reservoir impacts on water regulation capabilities.
 
 ## Honors
 
-- **Direct admission** to master’s degree programs at leading Iranian universities based on academic performance.
-- Ranked in the **Top 20%** among the Civil Engineering graduating class in 2024.
-- Placed in the **Top 2%** in the Konkour Exam, a national university entrance exam, in 2020.
-- Received the **Student of the Year** award at Iran University of Science and Technology in 2023.
-- Recognized with the **Top Internship Course Poster and Video** award at IUST in 2023.
-- Selected for the **National Organization for the Development of Exceptional Talents (Farzanegan)** from 2014 to 2020.
-- Achieved **2nd place in the PYPT (Persian Young Physicists’ Tournament)** in 2018.
+- **Direct admission** to master’s degree programs at top-ranking universities in Iran.
+- Ranked **Top 20%** among Civil Engineering graduating class | Year 2024
+- Ranked **Top 2%** in Konkour Exam | Year 2020
+- Awarded **Student of the Year** | Iran University of Science and Technology, Year 2023
+- **Top Internship Course Poster and Video** | Iran University of Science and Technology, Year 2023
+- Admitted to the **National Organization for the Development of Exceptional Talents (Farzanegan)** | Year 2014-2020
+- Ranked **2nd in PYPT (Persian Young Physicists’ Tournament)** | Year 2018
 
 ## Volunteer Experience
 
-**Deputy Secretary** of the **Scientific Society of Civil Engineering**  
-Responsibilities included:
-- Collaborated with team members to plan academic events and conferences.
-- Managed content and facilitated communication between faculty members and undergraduates.
+**Deputy Secretary of the Scientific Society of Civil Engineering**  
+Responsibilities:
+- Worked with team members to plan events and conferences.
+- Managed content and communications between faculty and undergraduates.
 
-Key Events Organized:
-- The **13th ICCE (International Congress on Civil Engineering)**.
-- **GeoWall**, a national competition focused on reinforced soil retaining walls.
-- **ICO (Industrial Civil Opportunity)**, connecting students with industry professionals.
+Organized Events:
+- **13th ICCE (International Congress on Civil Engineering)**
+- **GeoWall (National Competition of Reinforced Soil Retaining Wall)**
+- **ICO (Industrial Civil Opportunity)**
 
 ## Skills
 
-- **Engineering Software**: Experienced with ETABS, AutoCAD, Autodesk Civil 3D, HEC-RAS, WaterGEMS, SewerGEMS, and ArcMap.
-- **Programming Languages**: Skilled in Python, MATLAB, C, and C++.
+- **Engineering Software**: ETABS, AutoCAD, Autodesk Civil 3D, HEC-RAS, WaterGEMS, SewerGEMS, ArcMap
+- **Programming**: Python, MATLAB, C & C++
 
 ## Language Proficiencies
 
-- **English**: Achieved an IELTS overall score of 7, with Speaking: 8, Reading: 7, Listening: 7.5, and Writing: 6.
-- **Persian**: Native fluency.
-- **German**: Beginner level.
+- **English**: IELTS Overall: 7 (Speaking: 8, Reading: 7, Listening: 7.5, Writing: 6)
+- **Persian**: Native
+- **German**: Beginner
 
 ## Publications (Expanded)
 
-1. **"Mitigating Acid Attack-Induced Deterioration of Cement Mortar Through the Application of Montmorillonite Nanosheets"**:  
-   This research focuses on the use of montmorillonite nanosheets to enhance cement mortar's resistance to acid-induced deterioration, proposing a novel approach to improve material durability in acidic environments.  
-   _Status: Under review in Construction and Building Materials journal._
+1. **Mitigating acid attack-induced deterioration of cement mortar through the application of montmorillonite nanosheets**:  
+   This study examines the effectiveness of montmorillonite nanosheets in enhancing the resistance of cement mortar to acid-induced deterioration. By incorporating these nanosheets, the research highlights a promising approach to reducing material breakdown in acidic environments, potentially contributing to more durable and resilient infrastructure.  
+   _Under Review in Construction and Building Materials journal._
 
-2. **"The Potential of Nano-Clay to Minimize Degradation in Portland Cement-Zeolite Binary Mortar Exposed to Alkali-Silica Reaction (ASR)"**:  
-   This study evaluates nano-clay's effectiveness in reducing ASR-related degradation in Portland cement-zeolite mortar, offering a promising method for enhancing concrete durability in ASR-prone areas.  
-   _Status: Manuscript in preparation._
+2. **The potential of nano-clay to minimize degradation in Portland cement-zeolite binary mortar exposed to alkali-silica reaction (ASR)**:  
+   This research investigates the role of nano-clay in limiting the degradation caused by alkali-silica reaction (ASR) in Portland cement-zeolite mortar. ASR can lead to significant structural damage due to expansion and cracking; therefore, the addition of nano-clay presents a valuable strategy for enhancing concrete durability, particularly in ASR-prone applications.  
+   _Manuscript in Preparation_
 
 ## Additional Academic Experience (Detailed)
 
-- **Research Assistant** in the Concrete Technology Laboratory at IUST from August 2022 to present:  
-  - **Supervisor**: Dr. Asghar Habibnejad Korayem  
-  - Responsibilities included studying the durability of cementitious composites, exploring nanotechnology applications in civil engineering, conducting non-destructive tests, and contributing to resilience research in infrastructure.
+- **Research Assistant**  
+  Iran University of Science and Technology, Concrete Technology Laboratory | Aug 2022 - Present  
+  **Supervisor**: Dr. Asghar Habibnejad Korayem  
+  **Duties**: Investigated the durability of cementitious composites, explored nanotechnology applications in civil engineering, conducted non-destructive tests, and contributed to infrastructure resilience research.
 
-- **Teaching Assistant** roles, further detailed:
-  - **Concrete Technology** under Dr. Sajjad Mirvalad, September 2023 - January 2024.
-  - **Energy and Sustainable Development** under Dr. Pooyan Ayar, January 2024 - July 2024.
-  - **Concrete Technology Laboratory** with Dr. Hassan Malekitabar, January 2023 - July 2023.
-  - **Fluid Mechanics** under Dr. Naser Shabakhty, January 2023 - July 2023.
-  - **Civil Engineering Hydraulics** under Dr. Motahareh Saadatpour, September 2023 - January 2024.
+- **Teacher Assistant**  
+  Iran University of Science and Technology
+  - **Concrete Technology** | Supervisor: Dr. Sajjad Mirvalad | Sep 2023 - Jan 2024
+  - **Energy and Sustainable Development** | Supervisor: Dr. Pooyan Ayar | Jan 2024 - Jul 2024
+  - **Concrete Technology Laboratory** | Supervisor: Dr. Hassan Malekitabar | Jan 2023 - Jul 2023
+  - **Fluid Mechanics** | Supervisor: Dr. Naser Shabakhty | Jan 2023 - Jul 2023
+  - **Civil Engineering Hydraulics** | Supervisor: Dr. Motahareh Saadatpour | Sep 2023 - Jan 2024
 
 ## Volunteer Experience (Expanded)
 
 **Deputy Secretary of the Scientific Society of Civil Engineering**  
-Responsibilities included planning academic events and managing communication channels. Organized key events such as:
-- **13th International Congress on Civil Engineering (ICCE)**, involving logistics coordination, speaker invitations, and networking facilitation.
-- **GeoWall Competition**, for which I developed guidelines, managed materials, and oversaw judging processes.
-- **Industrial Civil Opportunity (ICO)**, connecting students with industry experts and arranging career-oriented sessions.
+Responsibilities:
+- Planned events and scientific conferences, managed content, and facilitated communication between faculty and undergraduates.
+
+Organized Events:
+- **13th International Congress on Civil Engineering (ICCE)**: Coordinated logistics, invited speakers, and facilitated networking opportunities.
+- **GeoWall Competition**: Developed competition guidelines, managed materials, and supervised the judging process.
+- **Industrial Civil Opportunity (ICO)**: Organized sessions connecting students with industry leaders.
 
 ## Hobbies
 
-**Music**  
-- Experienced piano player, self-taught, with over 10 years of experience.
+- **Music Experience**  
+  Piano Player  
+  Self-Taught / 10 years of experience
