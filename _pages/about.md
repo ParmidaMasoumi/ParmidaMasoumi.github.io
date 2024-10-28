@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Parmida"
+title: "Parmida Masoumi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Parmida Masoumi
 
 Hello, I hold a **Bachelor of Science in Civil Engineering** from **Iran University of Science and Technology**. My focus has been on **advanced construction materials**, particularly in **improving concrete durability with nano-materials**. I engaged in **extensive research** within the **concrete technology lab**, working on projects related to **chloride transport**, **alkali-silica reaction**, and **acid resistance in cement mortar**.
 
