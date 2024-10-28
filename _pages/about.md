@@ -26,12 +26,13 @@ Hello, I hold a **Bachelor of Science in Civil Engineering** from **Iran Univers
   **Supervisor**: Dr. Asghar Habibnejad Korayem
 
 - **Teacher Assistant**  
-  Iran University of Science and Technology
-  - Concrete Technology | Sep 2023 - Jan 2024
-  - Energy and Sustainable Development | Jan 2024 - July 2024
-  - Concrete Technology Laboratory | Jan 2023 - July 2023
-  - Fluid Mechanics | Jan 2023 - July 2023
-  - Civil Engineering Hydraulics | Sep 2023 - Jan 2024
+  *Iran University of Science and Technology*
+  - **Concrete Technology** - Sep 2023 to Jan 2024
+  - **Energy and Sustainable Development** - Jan 2024 to July 2024
+  - **Concrete Technology Laboratory** - Jan 2023 to July 2023
+  - **Fluid Mechanics** - Jan 2023 to July 2023
+  - **Civil Engineering Hydraulics** - Sep 2023 to Jan 2024
+
 
 ## Publications
 
