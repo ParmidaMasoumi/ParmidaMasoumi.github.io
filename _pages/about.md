@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-# [Parmida Masoumi]
+# Parmida Masoumi
 
-**Bachelor of Science in Civil Engineering**  
-Iran University of Science and Technology, Tehran, Iran
+Hello, I hold a **Bachelor of Science in Civil Engineering** from **Iran University of Science and Technology**. My focus has been on **advanced construction materials**, particularly in **improving concrete durability with nano-materials**. I engaged in **extensive research** within the **concrete technology lab**, working on projects related to **chloride transport**, **alkali-silica reaction**, and **acid resistance in cement mortar**.
+
 
 ---
 
