@@ -25,6 +25,7 @@ Hello, I hold a **Bachelor of Science in Civil Engineering** from **Iran Univers
 - **Research Assistant**  
   Iran University of Science and Technology, Concrete Technology Laboratory | Aug 2022 - Present  
   **Supervisor**: Dr. Asghar Habibnejad Korayem
+- Duties: Investigated durability of cementitious composites, explored nanotechnology applications in civil engineering, conducted non-destructive tests, and contributed to research on infrastructure resilience.
 
 - **Teacher Assistant**  
   *Iran University of Science and Technology*
